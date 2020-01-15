@@ -1,5 +1,5 @@
 public class BubbleSort {
-    //XDXDXD
+    //XDXDX
     public static void main(String[] args) {
         int[] angka = {3,6,1,4,2,5};
         int i,j,k,temp;
